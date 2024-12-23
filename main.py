@@ -1,7 +1,3 @@
-
-MODEL = "llama3-70b-8192"
-APIKEY = "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"
-
 import os
 import streamlit as st
 from code_exec import CodeExecutionManager, get_code_executor
